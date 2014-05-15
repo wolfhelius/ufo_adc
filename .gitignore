@@ -1,0 +1,12 @@
+*.o
+*.eww
+*.ewp
+*.doxygen
+*.hex
+*.html
+*.lst
+*.map
+*.out
+NOTES
+doxygen/
+documentation.h
